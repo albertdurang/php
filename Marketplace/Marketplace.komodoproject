@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="a54a94fc-ad56-4a24-8749-889c9b4aa61c" kpf_version="5" name="Marketplace.komodoproject">
+<file id="3730f54d-928c-427b-8d6e-9768ce6ab446" idref="a54a94fc-ad56-4a24-8749-889c9b4aa61c" name="insertarUsuario.php" url="insertarUsuario.php">
+</file>
+<file id="7225ed1c-ec2e-4ce8-ba0c-944bc423d93f" idref="a54a94fc-ad56-4a24-8749-889c9b4aa61c" name="agregarproducto.php" url="agregarproducto.php">
+</file>
+<file id="85b3cd30-6a90-452d-9b94-047167bf835a" idref="a54a94fc-ad56-4a24-8749-889c9b4aa61c" name="ValidaUsuario" url="ValidaUsuario">
+</file>
+<file id="9cf95a99-e5c0-46cb-9867-34ad3296ae59" idref="a54a94fc-ad56-4a24-8749-889c9b4aa61c" name="registro.php" url="registro.php">
+</file>
+<file id="af460775-9825-4737-915e-6f56f3023222" idref="a54a94fc-ad56-4a24-8749-889c9b4aa61c" name="conexion.php" url="conexion.php">
+</file>
+<file id="b2ba799d-986a-4d58-99cf-de00ea4755b3" idref="a54a94fc-ad56-4a24-8749-889c9b4aa61c" name="Login.php" url="Login.php">
+</file>
+<file id="cb72446b-fae8-4761-afda-527f357b723e" idref="a54a94fc-ad56-4a24-8749-889c9b4aa61c" name="Inicio" url="Inicio">
+</file>
+<file id="d809fa3c-819e-4f23-98bf-42ba49cde73d" idref="a54a94fc-ad56-4a24-8749-889c9b4aa61c" name="realizaVenta.php" url="realizaVenta.php">
+</file>
+<preference-set idref="a54a94fc-ad56-4a24-8749-889c9b4aa61c" id="project" preftype="project">
+  <long id="prefs_version">1</long>
+</preference-set>
+</project>
